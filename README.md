@@ -100,3 +100,7 @@ Tente fazer estas perguntas para validar o funcionamento:
 👤 Autor
 Desenvolvido por [João Brum]
 
+
+https://github.com/user-attachments/assets/7fd2bfc4-32a9-48b2-8f0e-5fe7935399bc
+
+
